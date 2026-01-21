@@ -1,6 +1,6 @@
 # Diligent_Keerthi
 Diligent Assessment
-There's poor netork in our uni so I did what I could in under 40 minutes
+There's poor network in our uni so I did what I could in under 40 minutes
 
 🤖 Jarvis – Personal AI Assistant (Enterprise Demo)
 📌 Overview
