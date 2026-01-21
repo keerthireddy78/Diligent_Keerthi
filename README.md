@@ -1,5 +1,6 @@
 # Diligent_Keerthi
 Diligent Assessment
+There's poor netork in our uni so I did what I could in under 40 minutes
 
 🤖 Jarvis – Personal AI Assistant (Enterprise Demo)
 📌 Overview
@@ -100,3 +101,6 @@ Role-based responses for different users (Board, Legal, Admin)
 Secure document upload and summarization
 
 Analytics for usage and insights
+
+
+ 
